@@ -5,13 +5,13 @@
   <a href="https://github.com/Hamzaoutdoors/to-do-list/blob/development/LICENSE">
     <img alt="MIT Licensed" src="https://img.shields.io/github/license/Hamzaoutdoors/to-do-list?style=flat-square">
   </a>
-  <a href="https://github.com/petumazo/Awesome-books">
+  <a href="https://github.com/iusm4n/awesomeBooksLab">
     <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/petumazo/Awesome-books/main?color=blue&style=flat-square">
   </a>
-  <a href="https://github.com/petumazo/Awesome-books">
+  <a href="https://github.com/iusm4n/awesomeBooksLab">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/petumazo/Awesome-books?color=orange&label=%E2%98%85%20stars%20&style=flat-square">
   </a>
-  <a href="https://github.com/petumazo">
+  <a href="https://github.com/iusm4n">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/petumazo?color=yellow&logo=github&style=flat-square">
   </a>
 </p>
@@ -49,7 +49,7 @@
 
 > Welcome to github page of my project
 
-[Live Demo Link](https://petumazo.github.io/Awesome-books/)
+[Live Demo Link](https://iusm4n.github.io/awesomeBooksLab/)
 
 ## Getting Started
 
@@ -68,18 +68,17 @@ Node updated version
 
 ## Authors
 
-👤 **EllaouziHamza**
-👤 **DavidAlvarez**
+👤 **M USMAN**
+👤 **SP22-BSE-073**
 
-- GitHub: [petumazo](https://github.com/petumazo)
-- GitHub: [hamzaoutdoors](https://github.com/Hamzaoutdoors)
+- GitHub: [USMAN](https://github.com/iusm4n)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/petumazo/Awesome-books/issues).
+Feel free to check the [issues page](https://github.com/iusm4n/awesomeBooksLab/issues).
 
 ## Show your support
 
